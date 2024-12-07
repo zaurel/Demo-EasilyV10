@@ -1,51 +1,51 @@
-Date de début;Date de fin;Nom du patient;Prénom du patient;Type de RDV;Commentaire;Description
-02/12/2024 08:00;02/12/2024 08:30;Dupont;Jean;Consultation;Suivi de traitement;Patient diabétique, vérifier glycémie
-02/12/2024 08:30;02/12/2024 09:00;Martin;Marie;Consultation;Première visite;Nouvelle patiente, antécédents familiaux de cancer
-02/12/2024 09:00;02/12/2024 09:30;Durand;Paul;Consultation;Contrôle de routine;Patient hypertendu, vérifier tension artérielle
-02/12/2024 13:00;02/12/2024 13:30;Lefèvre;Sophie;Consultation;Suivi post-opératoire;Opération récente, vérifier cicatrisation
-02/12/2024 13:30;02/12/2024 14:00;Bernard;Marc;Consultation;Bilan de santé;Patient sportif, vérifier état général
-03/12/2024 08:00;03/12/2024 08:30;Roux;Claire;Consultation;Suivi de grossesse;Grossesse à terme, vérifier signes de travail
-03/12/2024 08:30;03/12/2024 09:00;Moreau;Julien;Consultation;Vaccination;Vaccination grippe, vérifier allergies
-03/12/2024 09:00;03/12/2024 09:30;Dubois;Laura;Consultation;Contrôle de routine;Patiente asthmatique, vérifier fonction pulmonaire
-03/12/2024 13:00;03/12/2024 13:30;Leclerc;Thomas;Consultation;Suivi post-opératoire;Opération récente, vérifier mobilité
-03/12/2024 13:30;03/12/2024 14:00;Gauthier;Élodie;Consultation;Bilan de santé;Patiente végétarienne, vérifier carences
-04/12/2024 08:00;04/12/2024 08:30;Blanc;Lucas;Consultation;Suivi de traitement;Patient sous anticoagulants, vérifier INR
-04/12/2024 08:30;04/12/2024 09:00;Simon;Emma;Consultation;Première visite;Nouvelle patiente, antécédents de migraines
-04/12/2024 09:00;04/12/2024 09:30;Rousseau;Léa;Consultation;Contrôle de routine;Patiente allergique, vérifier réactions
-04/12/2024 13:00;04/12/2024 13:30;Leroy;Hugo;Consultation;Suivi post-opératoire;Opération récente, vérifier douleur
-04/12/2024 13:30;04/12/2024 14:00;Chevalier;Anaïs;Consultation;Bilan de santé;Patiente en rémission, vérifier état général
-05/12/2024 08:00;05/12/2024 08:30;Petit;Mathieu;Consultation;Suivi de grossesse;Grossesse à terme, vérifier signes de travail
-05/12/2024 08:30;05/12/2024 09:00;Girard;Camille;Consultation;Vaccination;Vaccination grippe, vérifier allergies
-05/12/2024 09:00;05/12/2024 09:30;Lambert;Léo;Consultation;Contrôle de routine;Patient asthmatique, vérifier fonction pulmonaire
-05/12/2024 13:00;05/12/2024 13:30;Mercier;Chloé;Consultation;Suivi post-opératoire;Opération récente, vérifier mobilité
-05/12/2024 13:30;05/12/2024 14:00;Renaud;Maxime;Consultation;Bilan de santé;Patient végétarien, vérifier carences
-06/12/2024 08:00;06/12/2024 08:30;Brun;Louise;Consultation;Suivi de traitement;Patiente diabétique, vérifier glycémie
-06/12/2024 08:30;06/12/2024 09:00;Faure;Arthur;Consultation;Première visite;Nouveau patient, antécédents familiaux de cancer
-06/12/2024 09:00;06/12/2024 09:30;Guillaume;Manon;Consultation;Contrôle de routine;Patiente hypertendue, vérifier tension artérielle
-06/12/2024 13:00;06/12/2024 13:30;Henry;Léna;Consultation;Suivi post-opératoire;Opération récente, vérifier cicatrisation
-06/12/2024 13:30;06/12/2024 14:00;Vincent;Gabriel;Consultation;Bilan de santé;Patient sportif, vérifier état général
-09/12/2024 08:00;09/12/2024 08:30;Dupont;Jean;Consultation;Suivi de traitement;Patient diabétique, vérifier glycémie
-09/12/2024 08:30;09/12/2024 09:00;Martin;Marie;Consultation;Première visite;Nouvelle patiente, antécédents familiaux de cancer
-09/12/2024 09:00;09/12/2024 09:30;Durand;Paul;Consultation;Contrôle de routine;Patient hypertendu, vérifier tension artérielle
-09/12/2024 13:00;09/12/2024 13:30;Lefèvre;Sophie;Consultation;Suivi post-opératoire;Opération récente, vérifier cicatrisation
-09/12/2024 13:30;09/12/2024 14:00;Bernard;Marc;Consultation;Bilan de santé;Patient sportif, vérifier état général
-10/12/2024 08:00;10/12/2024 08:30;Roux;Claire;Consultation;Suivi de grossesse;Grossesse à terme, vérifier signes de travail
-10/12/2024 08:30;10/12/2024 09:00;Moreau;Julien;Consultation;Vaccination;Vaccination grippe, vérifier allergies
-10/12/2024 09:00;10/12/2024 09:30;Dubois;Laura;Consultation;Contrôle de routine;Patiente asthmatique, vérifier fonction pulmonaire
-10/12/2024 13:00;10/12/2024 13:30;Leclerc;Thomas;Consultation;Suivi post-opératoire;Opération récente, vérifier mobilité
-10/12/2024 13:30;10/12/2024 14:00;Gauthier;Élodie;Consultation;Bilan de santé;Patiente végétarienne, vérifier carences
-11/12/2024 08:00;11/12/2024 08:30;Blanc;Lucas;Consultation;Suivi de traitement;Patient sous anticoagulants, vérifier INR
-11/12/2024 08:30;11/12/2024 09:00;Simon;Emma;Consultation;Première visite;Nouvelle patiente, antécédents de migraines
-11/12/2024 09:00;11/12/2024 09:30;Rousseau;Léa;Consultation;Contrôle de routine;Patiente allergique, vérifier réactions
-11/12/2024 13:00;11/12/2024 13:30;Leroy;Hugo;Consultation;Suivi post-opératoire;Opération récente, vérifier douleur
-11/12/2024 13:30;11/12/2024 14:00;Chevalier;Anaïs;Consultation;Bilan de santé;Patiente en rémission, vérifier état général
-12/12/2024 08:00;12/12/2024 08:30;Petit;Mathieu;Consultation;Suivi de grossesse;Grossesse à terme, vérifier signes de travail
-12/12/2024 08:30;12/12/2024 09:00;Girard;Camille;Consultation;Vaccination;Vaccination grippe, vérifier allergies
-12/12/2024 09:00;12/12/2024 09:30;Lambert;Léo;Consultation;Contrôle de routine;Patient asthmatique, vérifier fonction pulmonaire
-12/12/2024 13:00;12/12/2024 13:30;Mercier;Chloé;Consultation;Suivi post-opératoire;Opération récente, vérifier mobilité
-12/12/2024 13:30;12/12/2024 14:00;Renaud;Maxime;Consultation;Bilan de santé;Patient végétarien, vérifier carences
-13/12/2024 08:00;13/12/2024 08:30;Brun;Louise;Consultation;Suivi de traitement;Patiente diabétique, vérifier glycémie
-13/12/2024 08:30;13/12/2024 09:00;Faure;Arthur;Consultation;Première visite;Nouveau patient, antécédents familiaux de cancer
-13/12/2024 09:00;13/12/2024 09:30;Guillaume;Manon;Consultation;Contrôle de routine;Patiente hypertendue, vérifier tension artérielle
-13/12/2024 13:00;13/12/2024 13:30;Henry;Léna;Consultation;Suivi post-opératoire;Opération récente, vérifier cicatrisation
-13/12/2024 13:30;13/12/2024 14:00;Vincent;Gabriel;Consultation;Bilan de santé;Patient sportif, vérifier état général
+Date de début;Date de fin;Nom Prénom du patient;Type de RDV;Commentaire;Description
+02/12/2024 08:00;02/12/2024 08:30;Dupont Jean;Consultation;Suivi de traitement;Patient diabétique, vérifier glycémie
+02/12/2024 08:30;02/12/2024 09:00;Martin Marie;Consultation;Première visite;Nouvelle patiente, antécédents familiaux de cancer
+02/12/2024 09:00;02/12/2024 09:30;Durand Paul;Consultation;Contrôle de routine;Patient hypertendu, vérifier tension artérielle
+02/12/2024 13:00;02/12/2024 13:30;Lefèvre Sophie;Consultation;Suivi post-opératoire;Opération récente, vérifier cicatrisation
+02/12/2024 13:30;02/12/2024 14:00;Bernard Marc;Consultation;Bilan de santé;Patient sportif, vérifier état général
+03/12/2024 08:00;03/12/2024 08:30;Roux Claire;Consultation;Suivi de grossesse;Grossesse à terme, vérifier signes de travail
+03/12/2024 08:30;03/12/2024 09:00;Moreau Julien;Consultation;Vaccination;Vaccination grippe, vérifier allergies
+03/12/2024 09:00;03/12/2024 09:30;Dubois Laura;Consultation;Contrôle de routine;Patiente asthmatique, vérifier fonction pulmonaire
+03/12/2024 13:00;03/12/2024 13:30;Leclerc Thomas;Consultation;Suivi post-opératoire;Opération récente, vérifier mobilité
+03/12/2024 13:30;03/12/2024 14:00;Gauthier Élodie;Consultation;Bilan de santé;Patiente végétarienne, vérifier carences
+04/12/2024 08:00;04/12/2024 08:30;Blanc Lucas;Consultation;Suivi de traitement;Patient sous anticoagulants, vérifier INR
+04/12/2024 08:30;04/12/2024 09:00;Simon Emma;Consultation;Première visite;Nouvelle patiente, antécédents de migraines
+04/12/2024 09:00;04/12/2024 09:30;Rousseau Léa;Consultation;Contrôle de routine;Patiente allergique, vérifier réactions
+04/12/2024 13:00;04/12/2024 13:30;Leroy Hugo;Consultation;Suivi post-opératoire;Opération récente, vérifier douleur
+04/12/2024 13:30;04/12/2024 14:00;Chevalier Anaïs;Consultation;Bilan de santé;Patiente en rémission, vérifier état général
+05/12/2024 08:00;05/12/2024 08:30;Petit Mathieu;Consultation;Suivi de grossesse;Grossesse à terme, vérifier signes de travail
+05/12/2024 08:30;05/12/2024 09:00;Girard Camille;Consultation;Vaccination;Vaccination grippe, vérifier allergies
+05/12/2024 09:00;05/12/2024 09:30;Lambert Léo;Consultation;Contrôle de routine;Patient asthmatique, vérifier fonction pulmonaire
+05/12/2024 13:00;05/12/2024 13:30;Mercier Chloé;Consultation;Suivi post-opératoire;Opération récente, vérifier mobilité
+05/12/2024 13:30;05/12/2024 14:00;Renaud Maxime;Consultation;Bilan de santé;Patient végétarien, vérifier carences
+06/12/2024 08:00;06/12/2024 08:30;Brun Louise;Consultation;Suivi de traitement;Patiente diabétique, vérifier glycémie
+06/12/2024 08:30;06/12/2024 09:00;Faure Arthur;Consultation;Première visite;Nouveau patient, antécédents familiaux de cancer
+06/12/2024 09:00;06/12/2024 09:30;Guillaume Manon;Consultation;Contrôle de routine;Patiente hypertendue, vérifier tension artérielle
+06/12/2024 13:00;06/12/2024 13:30;Henry Léna;Consultation;Suivi post-opératoire;Opération récente, vérifier cicatrisation
+06/12/2024 13:30;06/12/2024 14:00;Vincent Gabriel;Consultation;Bilan de santé;Patient sportif, vérifier état général
+09/12/2024 08:00;09/12/2024 08:30;Dupont Jean;Consultation;Suivi de traitement;Patient diabétique, vérifier glycémie
+09/12/2024 08:30;09/12/2024 09:00;Martin Marie;Consultation;Première visite;Nouvelle patiente, antécédents familiaux de cancer
+09/12/2024 09:00;09/12/2024 09:30;Durand Paul;Consultation;Contrôle de routine;Patient hypertendu, vérifier tension artérielle
+09/12/2024 13:00;09/12/2024 13:30;Lefèvre Sophie;Consultation;Suivi post-opératoire;Opération récente, vérifier cicatrisation
+09/12/2024 13:30;09/12/2024 14:00;Bernard Marc;Consultation;Bilan de santé;Patient sportif, vérifier état général
+10/12/2024 08:00;10/12/2024 08:30;Roux Claire;Consultation;Suivi de grossesse;Grossesse à terme, vérifier signes de travail
+10/12/2024 08:30;10/12/2024 09:00;Moreau Julien;Consultation;Vaccination;Vaccination grippe, vérifier allergies
+10/12/2024 09:00;10/12/2024 09:30;Dubois Laura;Consultation;Contrôle de routine;Patiente asthmatique, vérifier fonction pulmonaire
+10/12/2024 13:00;10/12/2024 13:30;Leclerc Thomas;Consultation;Suivi post-opératoire;Opération récente, vérifier mobilité
+10/12/2024 13:30;10/12/2024 14:00;Gauthier Élodie;Consultation;Bilan de santé;Patiente végétarienne, vérifier carences
+11/12/2024 08:00;11/12/2024 08:30;Blanc Lucas;Consultation;Suivi de traitement;Patient sous anticoagulants, vérifier INR
+11/12/2024 08:30;11/12/2024 09:00;Simon Emma;Consultation;Première visite;Nouvelle patiente, antécédents de migraines
+11/12/2024 09:00;11/12/2024 09:30;Rousseau Léa;Consultation;Contrôle de routine;Patiente allergique, vérifier réactions
+11/12/2024 13:00;11/12/2024 13:30;Leroy Hugo;Consultation;Suivi post-opératoire;Opération récente, vérifier douleur
+11/12/2024 13:30;11/12/2024 14:00;Chevalier Anaïs;Consultation;Bilan de santé;Patiente en rémission, vérifier état général
+12/12/2024 08:00;12/12/2024 08:30;Petit Mathieu;Consultation;Suivi de grossesse;Grossesse à terme, vérifier signes de travail
+12/12/2024 08:30;12/12/2024 09:00;Girard Camille;Consultation;Vaccination;Vaccination grippe, vérifier allergies
+12/12/2024 09:00;12/12/2024 09:30;Lambert Léo;Consultation;Contrôle de routine;Patient asthmatique, vérifier fonction pulmonaire
+12/12/2024 13:00;12/12/2024 13:30;Mercier Chloé;Consultation;Suivi post-opératoire;Opération récente, vérifier mobilité
+12/12/2024 13:30;12/12/2024 14:00;Renaud Maxime;Consultation;Bilan de santé;Patient végétarien, vérifier carences
+13/12/2024 08:00;13/12/2024 08:30;Brun;Louise Consultation;Suivi de traitement;Patiente diabétique, vérifier glycémie
+13/12/2024 08:30;13/12/2024 09:00;Faure Arthur;Consultation;Première visite;Nouveau patient, antécédents familiaux de cancer
+13/12/2024 09:00;13/12/2024 09:30;Guillaume Manon;Consultation;Contrôle de routine;Patiente hypertendue, vérifier tension artérielle
+13/12/2024 13:00;13/12/2024 13:30;Henry Léna;Consultation;Suivi post-opératoire;Opération récente, vérifier cicatrisation
+13/12/2024 13:30;13/12/2024 14:00;Vincent Gabriel;Consultation;Bilan de santé;Patient sportif, vérifier état général
